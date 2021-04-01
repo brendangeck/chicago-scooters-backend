@@ -1,0 +1,2 @@
+trip_id,start_time,end_time,trip_distance,trip_duration,start_centroid_latitude,start_centroid_longitude,end_centroid_latitude,end_centroid_longitude
+251eb86c-7a34-43f5-a9f6-db91275e78d1,06/15/2019 01:00:00 PM,06/15/2019 02:00:00 PM,11970,2239,41.8926536169898,-87.6525172461958,41.9022009180961,-87.656066340364
